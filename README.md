@@ -8,25 +8,25 @@ All credit goes to the University of Wisconsin for the format of this homework a
 This repo contains code for the password validator. The below questions should be answered regarding your submission!
 
 ## Did you find the JavaScript Learning Tutor useful? If so, what about the tool made it useful? If not, why not?
-> Answer goes here!
+> I don't know what that is.
 
 
 ## Do you have any suggestions on how the JavaScript Learning Tutor might be improved?
-> Answer goes here
+> 
 
 
 ## Did you receive help from any other sources (classmates, etc)? If so, please list who (be specific!).
-> Answer goes here!
+> I had to google basic functions and how to do things I have never had exposure to like linux which horrifically complicated this. 
 
 
 ## Approximately how many hours did it take you to complete this assignment?
-> Answer goes here!
+> 5
 
 
 ## On a scale of 1 (too easy) to 10 (too challenging), how difficult was this assignment?
-> Answer goes here!
+> 8. The emotional response would've been ten, but that's unfair. There just seemed to be a high learning curve involved.
 
 
 ## Did you encounter any problems in this assignment we should warn students about in the future? How can we make the assignment better?
-> Answer goes here!
+> The instructions said you don't need linux, but the in class instructions and word instructions use linux. I was confused about alot of this and didn't feel like I actually did anything.
 
